@@ -1,0 +1,8 @@
+.items{
+  background-color: silver;
+  border: 3px solid black;
+  border-radius: 4px;
+  min-height:250px;
+  color:black;
+  text-align: center;
+}
